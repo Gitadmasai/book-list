@@ -1,0 +1,46 @@
+#navbar{
+    display: flex;
+    background-color: teal;
+}
+
+#navbar div{
+    display: flex;
+    margin-left: 800px;
+    
+
+}
+
+#hom{
+    margin: 20px;
+    color: white;
+    text-decoration: underline none;
+}
+
+#dash{
+    margin: 20px;
+    color: white;
+}
+
+#boo{
+    margin: 20px;
+    color: white;
+}
+
+#mark{
+    margin: 20px;
+    color: white;
+}
+
+#formdiv{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    /* border: 1px solid; */
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+input,select,label{
+    width: 250px;
+    margin-top: 5px;
+    margin-left: 20px;
+}

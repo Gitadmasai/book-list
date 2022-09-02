@@ -1,0 +1,37 @@
+#navbar{
+    display: flex;
+    background-color: teal;
+}
+
+#navbar div{
+    display: flex;
+    margin-left: 800px;
+    
+
+}
+
+#hom{
+    margin: 20px;
+    color: white;
+    text-decoration: underline none;
+}
+
+#dash{
+    margin: 20px;
+    color: white;
+}
+
+#boo{
+    margin: 20px;
+    color: white;
+}
+
+#mark{
+    margin: 20px;
+    color: white;
+}
+
+
+#thead{
+    background-color: yellow;
+}
